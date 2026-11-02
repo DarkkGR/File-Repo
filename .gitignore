@@ -1,0 +1,21 @@
+# LibreOffice lock files
+.~lock.*.odt#
+.~lock.*.ods#
+.~lock.*.odp#
+
+# LaTeX / XeLaTeX build artifacts
+*.aux
+*.log
+*.fls
+*.out
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.xdv
+*.pdf
+
